@@ -1,5 +1,5 @@
 ﻿# Mental-Health-Score-Prediction
-#LIVE LINK: https://mental-health-score-prediction-3-bvjs.onrender.com/
+# LIVE LINK: https://mental-health-score-prediction-3-bvjs.onrender.com/
 
 # **🧠 Mental Health Score Predictor**
 
